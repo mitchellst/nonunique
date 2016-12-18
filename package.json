@@ -1,0 +1,29 @@
+{
+  "name": "nonunique",
+  "version": "0.1.0",
+  "description": "Utility for efficiently detecting nonunique elements in a collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellst/nonunique.git"
+  },
+  "keywords": [
+    "uniqueness",
+    "uniq",
+    "lodash",
+    "set",
+    "es6"
+  ],
+  "author": "Mitchell Stoutin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitchellst/nonunique/issues"
+  },
+  "homepage": "https://github.com/mitchellst/nonunique#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
